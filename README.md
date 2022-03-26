@@ -1,2 +1,2 @@
 # capgemini
-capgemini repo
+capgemini repo for git commands demonstration
